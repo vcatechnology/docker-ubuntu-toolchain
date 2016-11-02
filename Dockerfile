@@ -92,7 +92,8 @@ RUN sudo apt-get install -y \
   nodejs-legacy \
   npm \
   libnspr4-dev \
-  nasm
+  nasm \
+  libbz2-dev \
+  unrar-free
 
 RUN sudo pip install cpplint
-

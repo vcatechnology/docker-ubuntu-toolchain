@@ -3,6 +3,7 @@ MAINTAINER VCA Technology <developers@vcatechnology.com>
 
 # Install useful packages
 RUN sudo apt-get install -y \
+  python-pip \
   gcc \
   g++ \
   libtool-bin \
@@ -92,4 +93,6 @@ RUN sudo apt-get install -y \
   npm \
   libnspr4-dev \
   nasm
+
+RUN sudo pip install cpplint
 

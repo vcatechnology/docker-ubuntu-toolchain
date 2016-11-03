@@ -94,6 +94,9 @@ RUN sudo apt-get install -y \
   libnspr4-dev \
   nasm \
   libbz2-dev \
-  unrar-free
+  unrar-free \
+  llvm \
+  clang-format \
+  clang-tidy
 
 RUN sudo pip install cpplint

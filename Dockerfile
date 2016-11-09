@@ -94,8 +94,9 @@ RUN sudo apt-get install -y \
   libnspr4-dev \
   nasm \
   libbz2-dev \
-  unrar-free \
+  unrar \
   llvm \
+  llvm-dev \
   clang-format \
   clang-tidy
 

@@ -1,8 +1,8 @@
-FROM vcatechnology/ubuntu-ci:16.10
+FROM vcatechnology/ubuntu-ci
 MAINTAINER VCA Technology <developers@vcatechnology.com>
 
 # Install useful packages
-RUN sudo apt-get install -y \
+RUN sudo vca-install-package \
   python-pip \
   gcc \
   g++ \

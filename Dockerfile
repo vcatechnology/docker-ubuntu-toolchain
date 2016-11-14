@@ -110,7 +110,6 @@ RUN sudo vca-install-package \
   libnspr4-dev \
   nasm \
   libbz2-dev \
-  unrar \
   llvm \
   llvm-dev \
   clang-format \

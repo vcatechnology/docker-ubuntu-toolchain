@@ -105,6 +105,7 @@ RUN sudo vca-install-package \
   alsa-utils \
   libuv1-dev \
   llvm \
+  llvm-dev \
   clang-format \
   clang-tidy \
   libnl-3-dev \

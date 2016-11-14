@@ -44,7 +44,7 @@ RUN sudo vca-install-package \
   protobuf-compiler \
   pandoc \
   libqt4-dev \
-  libpng-dev \
+  libpng12-dev \
   libeigen3-dev \
   libavcodec-dev \
   libavdevice-dev \

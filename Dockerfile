@@ -98,10 +98,15 @@ RUN sudo vca-install-package \
   dialog \
   libpopt-dev \
   libgpg-error-dev \
+  unrar-free \
+  automake \
   libgcrypt11-dev \
   libasound2-dev \
   alsa-utils \
   libuv1-dev \
+  llvm \
+  clang-format \
+  clang-tidy \
   libnl-3-dev \
   libnl-cli-3-dev \
   libndp-dev \
@@ -109,10 +114,6 @@ RUN sudo vca-install-package \
   npm \
   libnspr4-dev \
   nasm \
-  libbz2-dev \
-  llvm \
-  llvm-dev \
-  clang-format \
-  clang-tidy
+  libbz2-dev
 
 RUN sudo pip install cpplint

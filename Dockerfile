@@ -117,4 +117,4 @@ RUN sudo vca-install-package \
   nasm \
   libbz2-dev
 
-RUN sudo pip install cpplint
+RUN sudo LC_ALL=C pip install cpplint

@@ -105,7 +105,7 @@ RUN sudo vca-install-package \
   libpam0g-dev \
   libpciaccess-dev \
   libpcre3-dev \
-  libpng-dev \
+  libpng12-dev \
   libpopt-dev \
   libprotobuf-dev \
   libqt4-dev \

@@ -115,6 +115,7 @@ RUN sudo vca-install-package \
   npm \
   libnspr4-dev \
   nasm \
-  libbz2-dev
+  libbz2-dev \
+  python-coverage
 
-RUN LC_ALL=C pip install --user cpplint sseclient
+RUN LC_ALL=C pip install --user cpplint sseclient backports.functools_lru_cache

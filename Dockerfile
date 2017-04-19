@@ -81,6 +81,7 @@ RUN sudo vca-install-package \
   libjpeg-turbo8-dev \
   libmount-dev \
   libmpc-dev \
+  libmpfr-dev \
   libncurses5-dev \
   libncursesw5-dev \
   libndp-dev \

@@ -49,6 +49,7 @@ RUN sudo vca-install-package \
   libboost-all-dev \
   libbz2-dev \
   libcap-dev \
+  libcap-ng-dev \
   libcppunit-dev \
   libcurl4-gnutls-dev \
   libdbus-1-dev \

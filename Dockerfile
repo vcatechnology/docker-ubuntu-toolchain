@@ -133,6 +133,7 @@ RUN sudo vca-install-package \
   subunit \
   systemd \
   unrar-free \
+  uuid-runtime \
   valgrind \
   vde2 \
   xzdec \

@@ -140,4 +140,4 @@ RUN sudo vca-install-package \
   yasm \
   zlib1g-dev
 
-RUN LC_ALL=C pip install --user cpplint sseclient backports.functools_lru_cache
+RUN pip install --user cpplint sseclient backports.functools_lru_cache

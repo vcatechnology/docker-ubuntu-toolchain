@@ -118,6 +118,7 @@ RUN sudo vca-install-package \
   systemd \
   unrar-free \
   valgrind \
+  vde2 \
   xzdec \
   yasm \
   zlib1g-dev

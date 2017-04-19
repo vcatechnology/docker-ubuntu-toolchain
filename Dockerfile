@@ -36,6 +36,7 @@ RUN sudo vca-install-package \
   gawk \
   g++ \
   gcc \
+  gdisk \
   graphviz \
   gstreamer1.0-libav \
   gstreamer1.0-plugins-ugly \

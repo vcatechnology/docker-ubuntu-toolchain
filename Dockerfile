@@ -112,6 +112,7 @@ RUN sudo vca-install-package \
   protobuf-compiler \
   python-coverage \
   python-pip \
+  qemu \
   realpath \
   subunit \
   systemd \

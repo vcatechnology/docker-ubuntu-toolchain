@@ -128,6 +128,7 @@ RUN sudo vca-install-package \
   python-coverage \
   python-pip \
   qemu \
+  rapidjson-dev \
   realpath \
   subunit \
   systemd \

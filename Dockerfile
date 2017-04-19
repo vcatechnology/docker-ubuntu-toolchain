@@ -37,6 +37,7 @@ RUN sudo vca-install-package \
   g++ \
   gcc \
   gdisk \
+  gnu-efi \
   graphviz \
   gstreamer1.0-libav \
   gstreamer1.0-plugins-ugly \

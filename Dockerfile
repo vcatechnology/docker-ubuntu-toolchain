@@ -33,6 +33,7 @@ RUN sudo vca-install-package \
   doxygen \
   eject \
   flex \
+  gawk \
   g++ \
   gcc \
   graphviz \

@@ -76,6 +76,7 @@ RUN sudo vca-install-package \
   libgsoap-dev \
   libgudev-1.0-dev \
   libidn11-dev \
+  libisl-dev \
   libjansson-dev \
   libjpeg-turbo8-dev \
   libmount-dev \

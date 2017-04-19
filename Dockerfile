@@ -39,6 +39,8 @@ RUN sudo vca-install-package \
   gstreamer1.0-plugins-ugly \
   gstreamer1.0-tools \
   intltool \
+  libaa-bin \
+  libaa1-dev \
   libasound2-dev \
   libasprintf-dev \
   libattr1-dev \

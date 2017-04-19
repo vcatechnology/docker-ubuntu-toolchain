@@ -92,6 +92,7 @@ RUN sudo vca-install-package \
   libopencv-dev \
   liborc-0.4-dev \
   libpam0g-dev \
+  libpciaccess-dev \
   libpcre3-dev \
   libpng-dev \
   libpopt-dev \

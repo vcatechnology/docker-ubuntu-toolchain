@@ -21,6 +21,7 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 RUN sudo vca-install-package \
   alsa-utils \
   automake \
+  bc \
   bison \
   check \
   clang-format \

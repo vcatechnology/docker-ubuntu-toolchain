@@ -40,6 +40,7 @@ RUN sudo vca-install-package \
   gnu-efi \
   graphviz \
   gperf \
+  gsoap \
   gstreamer1.0-libav \
   gstreamer1.0-plugins-ugly \
   gstreamer1.0-tools \
@@ -69,6 +70,7 @@ RUN sudo vca-install-package \
   libgstreamer-plugins-base1.0-dev \
   libgstreamer-plugins-good1.0-dev \
   libgstreamer1.0-dev \
+  libgsoap-dev \
   libgudev-1.0-dev \
   libidn11-dev \
   libjansson-dev \

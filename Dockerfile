@@ -52,6 +52,7 @@ RUN sudo vca-install-package \
   intltool \
   libaa-bin \
   libaa1-dev \
+  libasan2 \
   libasound2-dev \
   libasprintf-dev \
   libattr1-dev \

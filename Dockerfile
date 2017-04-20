@@ -41,6 +41,7 @@ RUN sudo vca-install-package \
   graphviz \
   gperf \
   gsoap \
+  gstreamer1.0-alsa \
   gstreamer1.0-libav \
   gstreamer1.0-plugins-base \
   gstreamer1.0-plugins-good \

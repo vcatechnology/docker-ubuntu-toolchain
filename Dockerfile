@@ -110,6 +110,7 @@ RUN sudo vca-install-package \
   libtool-bin \
   libudev-dev \
   libuv1-dev \
+  libusb-1.0-0-dev \
   libx264-dev \
   libxml2-dev \
   lintian \

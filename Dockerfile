@@ -130,6 +130,7 @@ RUN sudo vca-install-package \
   qemu \
   rapidjson-dev \
   realpath \
+  stress \
   subunit \
   systemd \
   unrar-free \

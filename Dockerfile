@@ -53,6 +53,7 @@ RUN sudo vca-install-package \
   libaa-bin \
   libaa1-dev \
   libasan2 \
+  libasm-dev \
   libasound2-dev \
   libasprintf-dev \
   libattr1-dev \
@@ -65,7 +66,9 @@ RUN sudo vca-install-package \
   libcppunit-dev \
   libcurl4-gnutls-dev \
   libdbus-1-dev \
+  libdw-dev \
   libeigen3-dev \
+  libelf-dev \
   libffi-dev \
   libgcrypt11-dev \
   libgettextpo-dev \

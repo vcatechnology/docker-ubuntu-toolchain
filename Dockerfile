@@ -28,10 +28,12 @@ RUN sudo vca-install-package \
   clang-format \
   clang-tidy \
   cmake \
+  comerr-dev \
   cppcheck \
   debhelper \
   dialog \
   doxygen \
+  e2fslibs-dev \
   eject \
   flex \
   gawk \
@@ -85,6 +87,8 @@ RUN sudo vca-install-package \
   libisl-dev \
   libjansson-dev \
   libjpeg-turbo8-dev \
+  libkrad-dev \
+  libkrb5-dev \
   libmount-dev \
   libmpc-dev \
   libmpfr-dev \
@@ -117,6 +121,7 @@ RUN sudo vca-install-package \
   libudev-dev \
   libuv1-dev \
   libusb-1.0-0-dev \
+  libverto-dev \
   libx264-dev \
   libxml2-dev \
   lintian \
@@ -138,6 +143,7 @@ RUN sudo vca-install-package \
   rapidjson-dev \
   realpath \
   stress \
+  ss-dev \
   subunit \
   systemd \
   unrar-free \

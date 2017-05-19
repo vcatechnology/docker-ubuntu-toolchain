@@ -81,6 +81,7 @@ RUN sudo vca-install-package \
   libgstreamer-plugins-base1.0-dev \
   libgstreamer-plugins-good1.0-dev \
   libgstreamer1.0-dev \
+  libgstrtspserver-1.0-dev \
   libgsoap-dev \
   libgudev-1.0-dev \
   libidn11-dev \

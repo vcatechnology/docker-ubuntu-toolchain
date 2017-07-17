@@ -154,4 +154,4 @@ RUN sudo vca-install-package \
   yasm \
   zlib1g-dev
 
-RUN pip install --user cpplint sseclient backports.functools_lru_cache coverage
+RUN pip install --user cpplint sseclient backports.functools_lru_cache coverage pystache

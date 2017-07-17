@@ -138,7 +138,6 @@ RUN sudo vca-install-package \
   pandoc \
   pkg-config \
   protobuf-compiler \
-  python-coverage \
   python-pip \
   qemu \
   rapidjson-dev \
@@ -155,4 +154,4 @@ RUN sudo vca-install-package \
   yasm \
   zlib1g-dev
 
-RUN pip install --user cpplint sseclient backports.functools_lru_cache
+RUN pip install --user cpplint sseclient backports.functools_lru_cache coverage

@@ -31,7 +31,10 @@ RUN sudo vca-install-package \
   comerr-dev \
   cppcheck \
   debhelper \
+  dfu-util \
   dialog \
+  dnsmasq \
+  dosfstools \
   doxygen \
   e2fslibs-dev \
   eject \
@@ -51,6 +54,7 @@ RUN sudo vca-install-package \
   gstreamer1.0-plugins-good \
   gstreamer1.0-plugins-ugly \
   gstreamer1.0-tools \
+  gstreamer1.0-vaapi \
   intltool \
   iptables \
   libaa-bin \
@@ -92,6 +96,7 @@ RUN sudo vca-install-package \
   libkrad-dev \
   libkrb5-dev \
   libmount-dev \
+  libmozjs185-dev \
   libmpc-dev \
   libmpfr-dev \
   libncurses5-dev \
@@ -99,6 +104,7 @@ RUN sudo vca-install-package \
   libndp-dev \
   libnl-3-dev \
   libnl-cli-3-dev \
+  libnm-dev \
   libnspr4-dev \
   libntlm0-dev \
   libopencv-dev \
@@ -107,8 +113,11 @@ RUN sudo vca-install-package \
   libpciaccess-dev \
   libpcre3-dev \
   libpng-dev \
+  libpolkit-agent-1-dev \
+  libpolkit-gobject-1-dev \
   libpopt-dev \
   libprotobuf-dev \
+  libprotoc-dev \
   libqt4-dev \
   librapidxml-dev \
   libsigc++-2.0-dev \
@@ -123,7 +132,9 @@ RUN sudo vca-install-package \
   libudev-dev \
   libusb-1.0-0-dev \
   libuv1-dev \
+  libva-dev \
   libverto-dev \
+  libwebp-dev \
   libx264-dev \
   libxml2-dev \
   lintian \
@@ -133,6 +144,7 @@ RUN sudo vca-install-package \
   nasm \
   ncurses-term \
   nettle-dev \
+  network-manager \
   nodejs-legacy \
   npm \
   p7zip-full \

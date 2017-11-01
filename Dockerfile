@@ -147,7 +147,7 @@ RUN sudo vca-install-package \
   ncurses-term \
   nettle-dev \
   network-manager \
-  nodejs-legacy \
+  nodejs \
   npm \
   p7zip-full \
   pandoc \

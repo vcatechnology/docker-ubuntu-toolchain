@@ -59,7 +59,7 @@ RUN sudo vca-install-package \
   iptables \
   libaa-bin \
   libaa1-dev \
-  libasan2 \
+  libasan3 \
   libasm-dev \
   libasound2-dev \
   libasprintf-dev \

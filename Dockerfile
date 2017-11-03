@@ -112,6 +112,7 @@ RUN sudo vca-install-package \
   libpam0g-dev \
   libpciaccess-dev \
   libpcre3-dev \
+  libpixman-1-dev \
   libpng-dev \
   libpolkit-agent-1-dev \
   libpolkit-gobject-1-dev \

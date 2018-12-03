@@ -125,7 +125,7 @@ RUN sudo vca-install-package \
   libsigc++-2.0-dev \
   libsoup2.4-dev \
   libsqlite3-dev \
-  libssl-dev \
+  libssl1.0-dev \
   libsubunit-dev \
   libsystemd-dev \
   libtasn1-6-dev \

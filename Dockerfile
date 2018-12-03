@@ -97,7 +97,7 @@ RUN sudo vca-install-package \
   libkrb5-dev \
   libkeyutils-dev \
   libmount-dev \
-  libmozjs-52-dev  \
+  libmozjs-60-dev  \
   libmpc-dev \
   libmpfr-dev \
   libncurses5-dev \

@@ -156,7 +156,6 @@ RUN sudo vca-install-package \
   python-pip \
   qemu \
   rapidjson-dev \
-  realpath \
   ss-dev \
   stress \
   subunit \
